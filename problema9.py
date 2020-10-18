@@ -1,3 +1,8 @@
+Pe o masă de biliard sunt bile albe, roşii şi verzi. Din fiecare culoare sunt bile de două dimensiuni: mari şi mici. Să se afişeze
+câte bile sunt în total pe masa de biliard. Un jucător vrea să-i spuneţi care bile sunt mai multe , cele mici sau cele mari, afişând
+numărul lor. De ce culoare sunt bilele cele mai numeroase? Precizaţi numărul lor. Exemplu: Date de intrare Nr. bile albe mici: 2
+Nr. bile albe mari: 3 Nr. bile rosii mici: 1 Nr. bile rosii mari: 4 Nr. bile verzi mici: 3 Nr. bile verzi mari: 4 Date de ieşire Totalul
+bilelor: 17 Mari: 11 bile Verzi: 7 bile .
 amari=int(input("Numarul bilelor albe mari: "))
 rmari=int(input("Numarul bilelor rosii mari: "))
 vmari=int(input("Numarul bilelor verzi mari: "))
