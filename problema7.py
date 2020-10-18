@@ -1,3 +1,6 @@
+Se consideră trei numere întregi. Dacă toate sunt pozitive, să se afişeze numărul mai mare dintre al doilea şi al treilea număr, în
+caz contrar să se calculeze suma primelor două numere. Exemple: Date de intrare 45 23 100 date de ieşire 100 ; Date de
+intrare 34 -25 10 Date de ieşire 9.
 n1=int(input("Primul numar: "))
 n2=int(input("Al doilea numar: "))
 n3=int(input("Al treilea numar: "))
