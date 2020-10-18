@@ -1,3 +1,5 @@
+Se dau trei numere. Să se afişeze aceste numere unul sub altul, afişând în dreptul fiecăruia unul dintre cuvintele PAR sau
+IMPAR. Exemplu : Date de intrare : 45 3 24 Date de ieşire : 45 impar 3 impar 24 par.
 n1=int(input("Primul numar: "))
 n2=int(input("Al doilea numar: "))
 n3=int(input("Al treilea numar: "))
